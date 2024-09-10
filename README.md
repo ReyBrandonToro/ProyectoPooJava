@@ -8,7 +8,6 @@ Este proyecto que es un **Simulador de Tienda en Línea** en **Java**, donde los
 - **Gestión de productos**: La tienda debe ofrecer una lista de productos disponibles que los usuarios puedan ver y agregar a su carrito.
 - **Gestión de usuarios**: Los usuarios deben poder interactuar con la tienda, realizar acciones como agregar productos a su carrito y hacer pedidos.
 - **Control de pedidos**: Al realizar un pedido, la tienda debe poder manejar múltiples pedidos de diferentes usuarios y mostrar el historial de pedidos realizados.
-- **Flexibilidad y expansión futura**: El diseño del sistema debe ser modular y escalable, permitiendo agregar funcionalidades como sistemas de pago o inventario.
 
 ## Funcionalidades Principales
 
