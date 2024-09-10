@@ -1,7 +1,7 @@
 # Proyecto POO en Java
 
 ## Descripción del Proyecto: Simulador de Tienda en Línea
-Este proyecto que es un **Simulador de Tienda en Línea** utilizando **Java**, donde los usuarios pueden interactuar con una tienda virtual, agregar productos a un carrito de compras y realizar pedidos. La idea principal es modelar el flujo básico de una tienda en línea, permitiendo que los usuarios seleccionen productos, gestionen su carrito y finalmente realicen sus compras.
+Este proyecto que es un **Simulador de Tienda en Línea** en **Java**, donde los usuarios pueden interactuar con una tienda virtual, agregar productos a un carrito de compras y realizar pedidos. La idea principal es modelar el flujo básico de una tienda en línea, permitiendo que los usuarios seleccionen productos, gestionen su carrito y finalmente realicen sus compras.
 
 ## Objetivos Principales
 - **Simular el proceso de compra en línea**: Desarrollar una aplicación que represente el ciclo completo de compra en línea, desde la selección de productos hasta la creación de un pedido.
